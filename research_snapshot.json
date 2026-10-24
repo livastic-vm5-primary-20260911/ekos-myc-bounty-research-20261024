@@ -1,0 +1,132 @@
+{
+  "timestampUTC": "2026-10-24T01:35:53.684785+00:00",
+  "sourcePolicy": "firstparty public source evidence, no keys or signature",
+  "sourceLinks": {
+    "task": "https://taskmarket.dev/tasks/0xe542a0856ebf72ad489b7400c868e5b9e1a096e7f0658ace5be526875475f7fd",
+    "dex": "https://dexscreener.com/solana/7cqhf8gv9pakywwseoj5dby4bwdpf33cdbgk2hkccdnw",
+    "rugcheck": "https://rugcheck.xyz/tokens/CwubepDFJndzSKFmAMAm9u8Xx3PrizAwSq8hcGimpump",
+    "officialSite": "https://ekos.dev",
+    "officialToken": "https://ekos.dev/token/",
+    "officialGitHub": "https://github.com/alexeyban/EKOS",
+    "githubTokenomics": "https://github.com/alexeyban/EKOS/blob/main/TOKENOMICS.md",
+    "myceliumOfficial": "https://www.myceliumfinance.com",
+    "myceliumOfficialMcp": "https://www.myceliumfinance.com/api/mcp"
+  },
+  "mint": "CwubepDFJndzSKFmAMAm9u8Xx3PrizAwSq8hcGimpump",
+  "symbol": "EKOS",
+  "pool": "7CQHf8Gv9paKYwwsEoJ5DBY4BwDpF33cDBGK2HKCcDNW",
+  "ageDays": 68.189,
+  "firstPairCreatedUTC": "2026-08-16T21:03:12+00:00",
+  "marketCapDexUSd": 556318,
+  "fdvDexUSD": 556318,
+  "priceUsd": "0.0005750",
+  "volume24DexUsd": 140672.35,
+  "liquidityDexUsd": 65134.67,
+  "solanaOnchainSupplyByRugcheck": "967376284.407542",
+  "circulatingIssuerSnapshot20261022": "949410000",
+  "circulatingCapApproxFromIssuerTokensAndDexPriceUsd": "545910.75",
+  "rugcheckScore": 1,
+  "rugcheckWarnings": [],
+  "numberOfHolders": 1376,
+  "topTenExcludingVerifiedLPPercentageOfTotalSupply": "30.4112094941662358",
+  "excludedTokenAccounts": {
+    "BSAx6msSrfEZzC97vfXuTG42Qx7HPUYnPxaPvzFZRWyg": "Verified PumpSwap pool base-token vault owned by pool 7CQHf8Gv9paKYwwsEoJ5DBY4BwDpF33cDBGK2HKCcDNW"
+  },
+  "includedTopTenTokenAccounts": [
+    {
+      "tokenAccount": "CuV6H6ZrFnNW2MHY55DVKigLFcpHbHKJkuCXDKa8rPVg",
+      "owner": "ETMxAMpFGSoaeMsqQHwUHGCXKYBPzis58BqcZUmTuxQt",
+      "pct": 8.540818173600643,
+      "amount": 82621849.505782
+    },
+    {
+      "tokenAccount": "GRYYz5mUjPsquoyVPdiJjHWGwvm7qrQS419ET3oQAm6r",
+      "owner": "7oT1GzTLcWyV21mzwKxnWyZw7wRkg678v8uNPeSg9Vyp",
+      "pct": 4.340109506731843,
+      "amount": 41985190.085441
+    },
+    {
+      "tokenAccount": "2fdzNVVfzQGnozGrk4B4v2D7jkfZXQJs7ZP6Dhx9hD7E",
+      "owner": "4GECRE2bm45JxvhaiJYDBYfjb9byq31ahj5CwhMQGq3H",
+      "pct": 3.529667092821155,
+      "amount": 34145162.374489
+    },
+    {
+      "tokenAccount": "DiXyPcQS41Aox4qdrTzVzdMEgNxC2YhvLpeAXgtRcCxc",
+      "owner": "5kQoHWFwMGWgvU6Xbgp5RuurPWTNsuv6VwpcWvyDRk2n",
+      "pct": 2.3122909736161614,
+      "amount": 22368554.505259
+    },
+    {
+      "tokenAccount": "8qgsmqZWZ9WUPPDfnH5fxCxtqUmJ25WeZs4owqhZne7i",
+      "owner": "GWERnWSCNSs6WLrqsfyvLhf1FFN1JPBTXFw4bQMA6mAm",
+      "pct": 2.2986748742454113,
+      "amount": 22236835.589085
+    },
+    {
+      "tokenAccount": "EX6wyBTFSiKsPCz4Q8uMApqgpiNb72g4QqJTjQySKGc1",
+      "owner": "E6UM1NHP7oTGxswDS6gbqEtHG2ahFALFEpVaD7h3hLne",
+      "pct": 2.084559456111862,
+      "amount": 20165533.812801
+    },
+    {
+      "tokenAccount": "6h9hdFMrLRKwCQU29B44DZ9DzrVTWeekUacbxE5idmv3",
+      "owner": "AEra7WTregPwBAk6wZzJKE37bZFJGVdwwmUv5eVMfcdd",
+      "pct": 1.926463969934666,
+      "amount": 18636155.572804
+    },
+    {
+      "tokenAccount": "9BaGgfcsZye5nrK2K9xR6mpF7vmqcTzcx1KPcJsh2unE",
+      "owner": "HiXM1jpnYhqGbN3NZAzPoTm1LM6ahE8hFLsdZMZQMyeQ",
+      "pct": 1.8487236029247824,
+      "amount": 17884113.698939
+    },
+    {
+      "tokenAccount": "5GYhipwVGLrsiE6zBrnwcUWi4WgQxEwFNfiKgPHdCrmw",
+      "owner": "6FhMwYfzmjjpbDiBghGfQD7Bgf2dAthLs3EPkHMw7ChA",
+      "pct": 1.8022527039864937,
+      "amount": 17434565.243459
+    },
+    {
+      "tokenAccount": "BiHWBxvKyaJHMznGYDGz4Wftudek3wEqgevu7Wm8RfvL",
+      "owner": "Gf34zoEKwx6UHv1JNKV8988NCcMTzaNRpobinn2zvTcD",
+      "pct": 1.727649140193218,
+      "amount": 16712868.06
+    }
+  ],
+  "verifiedPoolLpLockedPct": 100,
+  "verifiedPoolLpLockedUsdReported": 64971.728128983355,
+  "lpUnlockDateVerified": "NOT SUPPLIED; do not infer perpetual lock",
+  "mintAuthority": null,
+  "freezeAuthority": null,
+  "myceliumAllocationsUpdated": "2026-10-24T01:35:53.590Z",
+  "alreadyInMycelium": false,
+  "latestFourEkosCommits": [
+    {
+      "sha": "8698c2f75a13c0f829ee6b878e895df04749aaf7",
+      "when": "2026-10-23T13:36:27Z",
+      "message": "feat: Oracle profiles P0-P2, log state, live sources outside the build cache (RFC 0211 Phase 4) [skip ci]"
+    },
+    {
+      "sha": "097e3f7cce150cc12bb5a7fe2d6e693214a9eba9",
+      "when": "2026-10-23T12:13:35Z",
+      "message": "feat: live Oracle connector and code ↔ database conflicts (RFC 0211), Oracle XE testbed [skip ci]"
+    },
+    {
+      "sha": "d0dd4c44af46c1d81a9559692495159cd56d0400",
+      "when": "2026-10-23T07:53:36Z",
+      "message": "chore: add the RFC 0209/0210 crates to the integration and benchmark lockfiles [skip ci]"
+    },
+    {
+      "sha": "1cc53461ecd02fba436b4da21c777a4702e1f940",
+      "when": "2026-10-23T07:52:15Z",
+      "message": "feat: Java analyzer + application model (RFC 0209), Oracle dialect, PL/SQL and schema history (RFC 0210) [skip ci]"
+    }
+  ],
+  "caveats": [
+    "First-party issuer numbers at ekos.dev/token differ from latest GitHub TOKENOMICS.md. For vesting rely on the later October 22 snapshot in repo; no burn tx reference is published there.",
+    "Rugcheck top-holder owner attribution is not equivalent to identifying real beneficial owners. Treat unknown token accounts as unknown.",
+    "Dexscreener liquidity and volume may change dramatically, risk of wash trading or slippage.",
+    "This research does not recommend buying a token or promise Mycelium collaboration."
+  ]
+}

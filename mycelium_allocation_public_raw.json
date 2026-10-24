@@ -1,0 +1,204 @@
+{
+  "updatedAt": "2026-10-24T01:35:53.590Z",
+  "totalUsd": 29430.22,
+  "allocations": [
+    {
+      "id": "knots",
+      "name": "Knots",
+      "symbol": "KNOTS",
+      "color": "#6E7F4A",
+      "usd": 6973.87,
+      "percentage": 23.696289052545307,
+      "pools": [
+        {
+          "label": "ESF/KNOTS — Raydium",
+          "address": "8PcRSaJRDah2gjrZ9sXy9DcezhFfiW51Cg5NLYSSFrK2",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 3817.92,
+          "resolved": true
+        },
+        {
+          "label": "MYC/KNOTS — Raydium",
+          "address": "C2huZF2ChurWfw2YFdaJMpY8CwjNTStf8YGxDnzgqfMD",
+          "pairedWith": "MYC",
+          "dex": "Raydium",
+          "usd": 3155.95,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "parcl",
+      "name": "Parcl",
+      "symbol": "PRCL",
+      "color": "#a9805a",
+      "usd": 4574.35,
+      "percentage": 15.54303705510866,
+      "pools": [
+        {
+          "label": "ESF/PRCL — Raydium",
+          "address": "4TnitVTcRDijsAdXJ9gWbeJEX2hhetbdaFz64KmUzPkJ",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 4574.35,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "gable",
+      "name": "Gable",
+      "symbol": "GABLE",
+      "color": "#855439",
+      "usd": 3174.91,
+      "percentage": 10.787924792950918,
+      "pools": [
+        {
+          "label": "GABLE/ESF — Raydium",
+          "address": "FZvBj7kcNqMG6aKUQegXK9NBWUwntBR8wdnEiiZkkLKP",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 3174.91,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "solana",
+      "name": "Solana",
+      "symbol": "SOL",
+      "color": "#6B4A2F",
+      "usd": 3161.16,
+      "percentage": 10.74120410924553,
+      "pools": [
+        {
+          "label": "ESF/SOL — Raydium",
+          "address": "7wTChQDj3KG4kHXYjWrPw5bWUkKzNpJySU5CABEkHogv",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 1871.94,
+          "resolved": true
+        },
+        {
+          "label": "MYC/SOL — Raydium",
+          "address": "SbcSXHpCkG8kSuzGkfuH8YNjSjxmLh3js732WERtz4r",
+          "pairedWith": "MYC",
+          "dex": "Raydium",
+          "usd": 1289.22,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "kins",
+      "name": "Kintara",
+      "symbol": "KINS",
+      "color": "#3F6B2A",
+      "usd": 2692.76,
+      "percentage": 9.149642782147058,
+      "pools": [
+        {
+          "label": "MYC/KINS — Raydium",
+          "address": "FmyAWpcEGTrV7hHdZ391kKycektEBZzoetL6GtjDkLua",
+          "pairedWith": "MYC",
+          "dex": "Raydium",
+          "usd": 2692.76,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "daydreams",
+      "name": "Daydreams",
+      "symbol": "DREAMS",
+      "color": "#5C6E2B",
+      "usd": 2584.47,
+      "percentage": 8.781687666622947,
+      "pools": [
+        {
+          "label": "MYC/dreams — Raydium",
+          "address": "8tfjuJV3yx1WwZU9wxPd4Bf7hu9WASY3zTC6aXfJi1Xv",
+          "pairedWith": "MYC",
+          "dex": "Raydium",
+          "usd": 2584.47,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "guac",
+      "name": "Guacamole",
+      "symbol": "GUAC",
+      "color": "#7A8E3A",
+      "usd": 2289.66,
+      "percentage": 7.779962229300358,
+      "pools": [
+        {
+          "label": "ESF/GUAC — Raydium",
+          "address": "F3RkbPYK6CsThVBKP6kc4qTnhDsX7nkBehBsDP7YEi24",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 2289.66,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "streamflow",
+      "name": "Streamflow",
+      "symbol": "STREAM",
+      "color": "#B08C77",
+      "usd": 2155.89,
+      "percentage": 7.325429439535281,
+      "pools": [
+        {
+          "label": "ESF/STREAM — Raydium",
+          "address": "CPyFpviDhrifL9oEkzh3xLnDqBKSsMTXraA5pQRD6Smu",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 2155.89,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "jubjub",
+      "name": "JubJub",
+      "symbol": "JUBJUB",
+      "color": "#7D6B3A",
+      "usd": 1717.47,
+      "percentage": 5.8357361922540845,
+      "pools": [
+        {
+          "label": "ESF/JUBJUB — Raydium",
+          "address": "AsZ3y7SpcPG9Zx2e525opB5W33Gm8f4exUpNLSh7GfRj",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 1717.47,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "id": "usdc",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "color": "#8F7A63",
+      "usd": 105.68,
+      "percentage": 0.35908668028985175,
+      "pools": [
+        {
+          "label": "ESF/USDC — Raydium",
+          "address": "8xtGW2DbBM8MXi2g8CZVuU763jh7kxfN8jEGGdQQ9D8g",
+          "pairedWith": "ESF",
+          "dex": "Raydium",
+          "usd": 105.68,
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "partial": false,
+  "note": "Partner pools are being migrated from $ESF pairs to $MYC pairs over time, so both appear here. The MYC/ESF pools themselves are not partner allocations; they are reported by the $MYC distribution data."
+}

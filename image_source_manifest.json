@@ -1,0 +1,23 @@
+{
+  "image": "ekos_myc_research_original_20261024.png",
+  "sha256": "5517a04083d189251a68f0275de9d68cf0f646f6e53c3e4cae9f81853c30c7da",
+  "size": [
+    1600,
+    900
+  ],
+  "originalArtwork": "Programmatically composed layout; issuer/official logos incorporated unaltered",
+  "logoSources": {
+    "EKOS": {
+      "url": "https://raw.githubusercontent.com/alexeyban/EKOS/main/web/ui/public/token_logo_E_200.png",
+      "sha256": "e4c708c91e576d41e4b9e6b121fa6097af5228f371b5d00d855c8851d2957c49"
+    },
+    "MYC": {
+      "url": "https://www.myceliumfinance.com/brand/myc_logo.png",
+      "sha256": "299d2bd0412a9975a4a84c614221f2ce79e2e8be617f0d46956d5bbb6689696a"
+    }
+  },
+  "snapshotUTC": "2026-10-24T01:35:53.684785+00:00",
+  "marketSource": "https://dexscreener.com/solana/7cqhf8gv9pakywwseoj5dby4bwdpf33cdbgk2hkccdnw",
+  "holderSource": "https://rugcheck.xyz/tokens/CwubepDFJndzSKFmAMAm9u8Xx3PrizAwSq8hcGimpump",
+  "noAffiliationOrPromise": "not a Mycelium partnership, allocation, audit or investment recommendation"
+}

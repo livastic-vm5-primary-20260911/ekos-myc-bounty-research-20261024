@@ -1,0 +1,79 @@
+[
+  {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/7cqhf8gv9pakywwseoj5dby4bwdpf33cdbgk2hkccdnw",
+    "pairAddress": "7CQHf8Gv9paKYwwsEoJ5DBY4BwDpF33cDBGK2HKCcDNW",
+    "baseToken": {
+      "address": "CwubepDFJndzSKFmAMAm9u8Xx3PrizAwSq8hcGimpump",
+      "name": "EKOS",
+      "symbol": "EKOS"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.000005623",
+    "priceUsd": "0.0005750",
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 35,
+        "sells": 4
+      },
+      "h6": {
+        "buys": 150,
+        "sells": 119
+      },
+      "h24": {
+        "buys": 423,
+        "sells": 340
+      }
+    },
+    "volume": {
+      "h24": 140672.35,
+      "h6": 55404.05,
+      "h1": 3117.17,
+      "m5": 20.62
+    },
+    "priceChange": {
+      "m5": 0.58,
+      "h1": -5.08,
+      "h6": 25.41,
+      "h24": 52.34
+    },
+    "liquidity": {
+      "usd": 65134.67,
+      "base": 58458813,
+      "quote": 308.1972
+    },
+    "fdv": 556318,
+    "marketCap": 556318,
+    "pairCreatedAt": 1786914192000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/veZQTdNFRSXxWGZG?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/yqAVfUpDvaCVmYXh?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CwubepDFJndzSKFmAMAm9u8Xx3PrizAwSq8hcGimpump?timestamp=1792805700000",
+      "websites": [
+        {
+          "url": "https://github.com/alexeyban/EKOS/",
+          "label": "Website"
+        },
+        {
+          "url": "https://alexeyban.github.io/EKOS/",
+          "label": "Docs"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/ekosproject",
+          "type": "twitter"
+        }
+      ]
+    }
+  }
+]
